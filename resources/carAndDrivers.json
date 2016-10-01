@@ -1,0 +1,19 @@
+{
+	"name": "suresh",
+	"mobile": [{
+		"number1": 9898989898,
+		"isWhatsApp": "Yes"
+	}, {
+		"number1": 9898989898,
+		"isWhatsApp": "No"
+	}],
+	"addressCity": "sikar",
+	"addressVillage": "kolida",
+	"PermanentAddress": "housenumber - 23,ward - 5",
+	"age": 34,
+	"carModel": "Toyota Etios",
+	"makeyear": 2011,
+	"vehicleNumber": "RJ23SS5925",
+	"rcNumber": "",
+	"fareKm": 10
+}
